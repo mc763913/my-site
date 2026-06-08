@@ -1,0 +1,21 @@
+.Buttons {
+    font-size: 80px;
+    font-family: sans-serif;
+    font-weight: 700;
+    margin: 0;
+   color: rgb(255, 0, 0);
+    padding: auto;
+}
+.xbox {
+    width: 100px;
+    margin: 0;
+    padding-top: 50px;
+}
+.image {
+    background-image:url(software-shape-roundedrectangle_97769.png);
+    background-repeat: no-repeat;
+   width: 150px;
+   margin: 0;
+    
+   
+}
